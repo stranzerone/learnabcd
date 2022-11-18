@@ -1,0 +1,51 @@
+.alpha
+{
+    font-size: 40px;
+    size: 20%;
+    
+    font-family: fantasy;
+    color: rgb(113, 228, 19);
+    opacity:initial;
+    margin-left: 100px;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    height: 70px;
+    width: 70px;
+    margin-bottom: 20px;
+    background: initial;
+   border-color: yellow;
+   border-width: 5px;
+   box-shadow: 10px;
+   text-decoration: none;
+   display: flexbox;
+   
+}
+.head{
+    color: greenyellow;
+    font-family: fantasy;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 20px;
+    -webkit-text-stroke-width: 20%;
+}
+.body{
+    
+    background-image: url(./sounds/forest.webp);
+    
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.alpha:hover{
+    color: red;
+    background-image: url(./sounds/CHOOTA\ BHEEM.jpeg);
+    background-size: cover;
+}
+
+.power{
+    background-image: url(./sounds/grass.webp);
+    background-size: 120%;
+}
+#aut{
+    width: 190px;
+    height: 70px;
+}
